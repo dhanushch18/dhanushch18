@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/dhanushch17" target="blank"><img src="https://img.shields.io/twitter/follow/dhanushch17?logo=twitter&style=for-the-badge" alt="dhanushch17" /></a> </p>
 
-- 🌱 I’m currently learning **Python Full Stack & Data Science**
+- 🌱 I am a **Python Full Stack Developer & Data Scientist**
 
-- 👨‍💻 All of my projects are available at [https://www.datascienceportfol.io/dashboard](https://www.datascienceportfol.io/dashboard)
+- 👨‍💻 All of my projects are available at [https://drive.google.com/drive/folders/1mLvUzXUC5bh0FEfl0P-Su6TdBXhjB2ok](https://drive.google.com/drive/folders/1mLvUzXUC5bh0FEfl0P-Su6TdBXhjB2ok)
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAFF5mAEv_g/L1UOlQHLTRohypqbXjMEXQ/edit?analyticsCorrelationId=e80f2830-56f0-4928-b8ee-1a7c2ccbad27](https://www.canva.com/design/DAFF5mAEv_g/L1UOlQHLTRohypqbXjMEXQ/edit?analyticsCorrelationId=e80f2830-56f0-4928-b8ee-1a7c2ccbad27)
+- 📄 Know about my experiences [#CV](https://drive.google.com/file/d/14Z87zMr1ziDC_2vUHBkZFvxbdu8Pmdml/view?usp=drivesdk)
 
 - ⚡ Fun fact **I'm an extrovert**
 
