@@ -51,14 +51,15 @@
 </p>
 
 ---
-## ✨ Highlights
+## 🧩 GitHub Summary (Clean View)
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=dhanushch18&limit=5&theme=radical&combine_all_yearly_contributions=true" width="600" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhanushch18&theme=radical" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhanushch18&theme=radical&hide_border=true" width="600" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dhanushch18&theme=radical" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dhanushch18&theme=radical" height="180" />
 </p>
 
 
