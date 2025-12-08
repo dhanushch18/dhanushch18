@@ -51,38 +51,15 @@
 </p>
 
 ---
+## 📊 Developer Metrics
 
-## ⭐ Featured Repositories
-<p align="left">
-
-  <a href="https://github.com/dhanushch18/REPO_1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhanushch18&repo=REPO_1&theme=radical" />
-  </a>
-
-  <a href="https://github.com/dhanushch18/REPO_2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhanushch18&repo=REPO_2&theme=radical" />
-  </a>
-
-</p>
-
----
-
-## 💫 Extra Highlights
 <p align="center">
-  <img src="https://stats.hyochan.dev/api/github-stats?login=dhanushch18" width="400" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhanushch18&theme=react-dark&hide_border=true&area=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dhanushch18&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" />
-</p>
-
----
-
-## 📈 Star History
-<p align="center">
-  <a href="https://star-history.com/#dhanushch18">
-    <img src="https://api.star-history.com/svg?repos=dhanushch18&type=Date" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=dhanushch18&show_icons=true&theme=radical&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanushch18&layout=compact&theme=radical&hide_border=true" height="170" />
 </p>
 
 ---
